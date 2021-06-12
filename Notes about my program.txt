@@ -1,0 +1,3 @@
+I was unable to finish coding up for all the requirements listed in the code challenge. I was having a hard time trying figure out how to program the computer as the opponent.
+Initially, I thought of randomizing numbers for the setCharacter function when it is the computer's turn to make a move, but I couldn't get that working. So I moved on to creating
+a tic tac toe that allows two live users to play against each other.  
